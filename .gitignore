@@ -2,3 +2,6 @@
 .vscode/
 obj/
 
+#ignore file
+*.pdb
+
