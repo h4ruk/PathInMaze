@@ -1,4 +1,4 @@
 #ignore folder
 .vscode/
-.obj/
+obj/
 
