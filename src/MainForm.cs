@@ -21,7 +21,7 @@ namespace PathInMaze
             title.Font = ExtendFont.Satoshi64;
             title.TextAlign = ContentAlignment.MiddleCenter;
             title.Location = new Point(120, 68);
-            title.Size = new Size(480, 79);
+            title.Size = new Size(490, 79);
 
             //Rows Label 
             rowsLabel = new Label();
