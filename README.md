@@ -7,7 +7,7 @@ Demo Dijkstra algorithm to find path in a random maze.
 2. Install Satoshi-Bold.otf
 
 # How to use
-Run PathInMaze.exe
+Run ./output/PathInMaze.exe
 
 # Credit
 Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
