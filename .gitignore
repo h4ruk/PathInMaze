@@ -1,7 +1,0 @@
-#ignore folder
-.vscode/
-obj/
-
-#ignore file
-*.pdb
-

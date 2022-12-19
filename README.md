@@ -1,4 +1,4 @@
-# PathInMaze
+# Description
 Graph Theory's final project.
 Demo Dijkstra algorithm to find path in a random maze.
 
